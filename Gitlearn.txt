@@ -1,1 +1,1 @@
-Learn git from swap
+Learn git in github and also learn git command
